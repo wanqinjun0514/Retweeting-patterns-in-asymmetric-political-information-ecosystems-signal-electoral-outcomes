@@ -1,0 +1,5 @@
+{
+  "DATA_ROOT": "./data",
+  "OUTPUT_ROOT": "./outputs",
+  "LABELS_ROOT": "./labels"
+}

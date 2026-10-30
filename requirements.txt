@@ -1,0 +1,20 @@
+# Core analysis dependencies
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+networkx
+python-louvain
+plotly
+joypy
+tqdm
+scikit-learn
+
+# Optional: raw core-network extraction
+# python -m pip install igraph
+# Optional: Plotly static image export (compatible browser may also be required)
+# python -m pip install kaleido
+# Optional: state-level modeling
+# python -m pip install joblib openpyxl umap-learn
